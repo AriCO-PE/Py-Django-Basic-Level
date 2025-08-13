@@ -1,0 +1,23 @@
+# Archivos y carpetas de caché de Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Archivos de caché de Django
+db.sqlite3
+*.log
+*.pot
+*.pyc
+
+# Archivos de migraciones (opcional si no quieres subirlas)
+#migrations/
+
+# Archivos de entorno virtual
+venv/
+env/
+
+# Archivos de configuración local
+*.env
+*.local
+.DS_Store
