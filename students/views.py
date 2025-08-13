@@ -9,7 +9,7 @@ class CustomLoginView(LoginView):
     redirect_authenticated_user = True
 
     def get_success_url(self):
-        return '/dashboard/'  
+        return 'dashboard.html'  
 
 class logout_view(LogoutView):
     next_page = 'login.html'  
