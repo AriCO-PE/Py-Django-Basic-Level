@@ -8,3 +8,6 @@ A basic Django project template designed for learning and starting new Django ap
 - User authentication (login/logout) system
 - Basic app structure following Django best practices
 - Bootstrap styled forms
+
+
+hola william
